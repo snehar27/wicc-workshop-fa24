@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./components/Navbar.js";
+//import Navbar from "./components/Navbar.js";
+import Image from "./components/Image.js";
 
 function App() {
   return (
@@ -19,7 +20,13 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <Navbar />
+      {/*<Navbar />*/}
+      {/* <Image
+        src={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_Wn_M3dpOeoGK1B-AkCLt5Agu5b4XZotRQ&s"}
+        alt="Local Example Image"
+        width={200}
+        height={200}
+      /> */}
     </div>
   );
 }

@@ -1,0 +1,17 @@
+.image-container {
+  display: inline-block;
+  /* Ensures the div wraps tightly around the image */
+  padding: 10px;
+  /* Adjust padding as needed */
+  background-color: #f9f9f9;
+  /* Optional: Background color inside the border */
+}
+
+.image-container img {
+  display: block;
+  /* Prevents gaps under the image */
+  max-width: 100%;
+  /* Ensures responsiveness */
+  height: auto;
+  /* Keeps the image aspect ratio */
+}
