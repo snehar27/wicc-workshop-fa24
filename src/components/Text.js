@@ -9,9 +9,9 @@ export default Text;
 
 {/* implementation example
     <div>
-      <Text text="This is default text." />
-      <Text text="This is highlighted text." styleClass="highlighted-text" />
-      <Text text="This is error text." styleClass="error-text" />
-      <Text text="This is success text." styleClass="success-text" />
+        <Text text="This is default text." />
+        <Text text="This is bolded text." styleClass="bold-text" />
+        <Text text="This is heading text." styleClass="heading-text" />
+        <Text text="This is color text." styleClass="color-text" />
     </div>
 */}

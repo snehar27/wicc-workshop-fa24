@@ -36,6 +36,13 @@ function App() {
         height="50px"
         text="Click Here"
       /> */}
+
+      {/* 
+          <Text text="This is default text." />
+          <Text text="This is bolded text." styleClass="bold-text" />
+          <Text text="This is heading text." styleClass="heading-text" />
+          <Text text="This is color text." styleClass="color-text" />
+      */}
     </div>
   );
 }
