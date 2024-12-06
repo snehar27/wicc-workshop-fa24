@@ -1,0 +1,27 @@
+/* Different styling classes you can use to customize your text components */
+
+.default-text {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 10px 0;
+    line-height: 1.5;
+}
+  
+.bold-text {
+    color: #333;
+    font-weight: bold;
+}
+
+.heading-text {
+    color: #333;
+    font-weight: bold;
+    font-size: 24px;
+}
+  
+.color-text {
+    color: #d9534f; /* Red (feel free to change) */
+    font-style: italic;
+}
+
+/* Feel free to add more style classes */
