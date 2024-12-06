@@ -2,6 +2,7 @@
 import "./App.css";
 //import Navbar from "./components/Navbar.js";
 import Image from "./components/Image.js";
+import Button from "./components/Button.js";
 
 function App() {
   return (
@@ -26,6 +27,14 @@ function App() {
         alt="Local Example Image"
         width={200}
         height={200}
+      /> */}
+
+      {/* <Button
+        color="blue"
+        link="https://wicc.cornell.edu/#/"
+        width="200px"
+        height="50px"
+        text="Click Here"
       /> */}
     </div>
   );
